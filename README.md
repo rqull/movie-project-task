@@ -1,3 +1,69 @@
+# Movie Dashboard Project
+
+A Next.js application for browsing and reviewing movies. Built with Next.js 14, TypeScript, and Tailwind CSS.
+
+## Features
+
+- 📱 Responsive movie dashboard
+- 🎬 Detailed movie information
+- 💬 Comment system
+- ⭐ Rating system
+- 📊 Dashboard analytics
+
+## Tech Stack
+
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- React Icons
+- Geist Font
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone <your-repo-url>
+   cd movie-project-task
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Run the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Project Structure
+
+```
+src/
+├── app/
+│   ├── movies/
+│   │   └── [id]/
+│   │       └── page.tsx    # Movie details page
+│   ├── page.tsx           # Dashboard page
+│   ├── layout.tsx         # Root layout
+│   └── globals.css        # Global styles
+```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
