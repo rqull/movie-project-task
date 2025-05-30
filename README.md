@@ -23,7 +23,7 @@ A Next.js application for browsing and reviewing movies. Built with Next.js 14, 
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/rqull/movie-project-task.git
    cd movie-project-task
    ```
 
